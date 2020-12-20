@@ -1,4 +1,4 @@
 # excise
-web作业2\n
-web作业3\n
-web作业4\n
+web作业2
+web作业3
+web作业4
